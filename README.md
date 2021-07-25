@@ -1,5 +1,6 @@
 # studyInfo
 学习资源
 
-1. [设计模式](../doc.shejimoshi.md)
+# 设计模式 
+## [单例模式] (https://github.com/txclovelyj/studyInfo/blob/main/doc/shejimoshi.md)
 
