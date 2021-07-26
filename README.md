@@ -1,6 +1,17 @@
 # studyInfo
 学习资源
 
-# 设计模式 
-## [单例模式] (https://github.com/txclovelyj/studyInfo/blob/main/doc/shejimoshi.md)
+- 设计模式
+
+>1. [单例模式]()
+>2. [工厂模式]()
+>3. [建造者模式]()
+>4. [原型模式]()
+>5. [责任链模式]()
+>6. [观察者模式]()
+>7. [策略模式]()
+
+- 计算机网络
+    - [什么是单点登录](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
+
 
