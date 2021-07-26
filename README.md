@@ -16,4 +16,8 @@
 - 计算机网络
     - [什么是单点登录](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
 
+ - Redis常见线上故障及其解决方案
+ >1. [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
+ >2. [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
+ >3. [分布式锁、并发竞争、双写一致性](https://mp.weixin.qq.com/s/2hTgP3MRTVDxmmoUFhOaGw) 
 
